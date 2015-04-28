@@ -13,8 +13,8 @@ Exercises.numbers1 = function() {
 // Numbers 2
 // Make the function return a value that is a negative number.
 Exercises.numbers2 = function() {
-
-  return -25 ;
+  bygolly = -12;
+  return bygolly ;
 
 };
 
